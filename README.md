@@ -1,15 +1,72 @@
-![Banner](https://github.com/MtrkJmL/MtrkJmL/assets/70493201/3bea7d31-5e76-45a5-96e7-04126a6c1021)
+<img src="https://github.com/MtrkJmL/MtrkJmL/assets/70493201/3bea7d31-5e76-45a5-96e7-04126a6c1021" width="100%" />
 
-<h1 align="left">Hi, I'm Mustafa</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mtrkjml&label=Profile%20views&color=0e75b6&style=flat" alt="mtrkjml" /> </p>
+<h1 align="left">Hi, I'm Mustafa 👋</h1>
 
-<img align="right" alt="Coding" width="250" src="https://github.com/MtrkJmL/MtrkJmL/assets/70493201/8f00c8c9-3072-4f6e-a820-180ec2b7f265">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mtrkjml&label=Profile%20views&color=6366f1&style=flat" alt="mtrkjml" />
+</p>
 
-- [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru)](mailto:mtrkjml@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mustafa-türk-a24a42184)
+<img align="right" alt="Coding" width="260"
+src="https://github.com/MtrkJmL/MtrkJmL/assets/70493201/8f00c8c9-3072-4f6e-a820-180ec2b7f265">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+### 🧠 About Me
+- 🎓 Technical Student Intern (Systems / AI)
+- 🧩 Focused on **AI Compilers**, **LLVM**, **MLIR**, and **IR transformations**
+- ⚙️ Interested in **lowering pipelines**, **codegen**, and **performance**
+- 🤖 Background in **Machine Learning**, **Torch MLIR**, **StableHLO**
+- 🐧 Linux-first, systems-oriented mindset
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtrkjml&show_icons=true&locale=en&layout=compact" alt="mtrkjml" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtrkjml&show_icons=true&locale=en" alt="mtrkjml" /></p>
+---
+
+### 🔗 Connect With Me
+- 🔴 **Email:** [mtrkjml@gmail.com](mailto:mtrkjml@gmail.com)
+- 🔵 **LinkedIn:** [linkedin.com/in/mustafa-türk-a24a42184](https://www.linkedin.com/in/mustafa-türk-a24a42184)
+
+---
+
+## 🧰 Languages, Tools & Frameworks
+
+### 🧠 AI Compilers & Systems
+<p align="left">
+  <img src="https://llvm.org/img/LLVMLogo.png" height="40"/>
+  <img src="https://mlir.llvm.org/img/mlir-logo.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/openxla/stablehlo/main/docs/logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Clang_logo.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/torc-isi/pytorch-mlir/main/docs/pytorch-mlir-logo.svg" height="40"/>
+</p>
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+</p>
+
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+### ⚙️ DevOps & Infrastructure
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrkjml&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtrkjml&show_icons=true&theme=tokyonight"/>
+</p>
